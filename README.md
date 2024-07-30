@@ -2,7 +2,7 @@
 `Windows host`
 ___
 
-<strong style="color:red;">This README is not completed! WIP - deadline: end of month (July) </strong>
+<strong style="color:red;">This README is not completed! </strong>
 
 
 ## Install prerequisites
